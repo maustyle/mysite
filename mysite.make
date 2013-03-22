@@ -25,3 +25,8 @@ projects[module_filter][version] = 1.7
 projects[views][subdir] = contrib
 projects[views][version] = 3.6
 
+projects[backup_migrate][subdir] = contrib
+projects[backup_migrate][version] = 2.4
+
+projects[derivicon][subdir] = contrib
+projects[derivicon][version] = 1.0
